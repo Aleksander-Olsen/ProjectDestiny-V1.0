@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 592d11a8154ca034a84177f7566dd15f
+  - enabled: 1
+    path: Assets/Scenes/TravelSceneBezier.unity
+    guid: c23101802b1e7744eb1c934bdcfbc51b
+  - enabled: 1
+    path: Assets/Scenes/SystemScene.unity
+    guid: d45d9b0219afab6489dab0c2fa3a932c
+  m_configObjects: {}
